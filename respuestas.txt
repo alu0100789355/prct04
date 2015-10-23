@@ -1,1 +1,3 @@
 RVM es una herramienta de línea de comandos que permite instalar fácilmente, gestionar y trabajar con múltiples entornos de rubí de intérpretes a los conjuntos de gemas.
+
+La diferencia entre la ejecucion con el interprete de ruby y el interprete interactivo es que con "irb" podemos ingresar comandos y bloques de código que posteriormente serán ejecutados por Ruby, y con el interprete de ruby lo va a ejecutar directamente.
